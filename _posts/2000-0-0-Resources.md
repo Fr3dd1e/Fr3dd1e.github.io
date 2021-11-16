@@ -1,0 +1,127 @@
+---
+title: Cyber Resources
+date: 2000-01-01 00:00:00 +0000
+categories: [Resources, Notes]
+tags: Resources
+toc: true
+pin: true
+published: true
+---
+
+# Cyber Resources
+- by Freddie
+
+
+This is a collection of all the best resources I've learnt from and used in the past year of my cyber security learning. 
+
+This is in no means a complete list, and will be updated consistently when I come across new content, or simply remember platforms I used to use. 
+
+I'll try and sort this collection of resources into a few key sections:
+- Linux
+- Windows
+- Cryptography
+- Web 
+- Binary
+- General Hacking
+- Miscellaneous
+
+
+## Linux
+[Linux Journey](https://linuxjourney.com/) - So much incredible content on Linux, gets into the nitty gritty about processes etc.
+
+**https://tryhackme.com/module/linux-fundamentals** - Good for getting to grips with the command line
+
+By far the best way to learn Linux is to install it as your daily operating system. 
+Force yourself to use the command line, and "stack overflow the shit out of it™️" **https://tryhackme.com/room/linuxprivesc** (TryHackMe again) to learn some of the more common PrivEsc methods before throwing yourself at a machine. 
+
+
+
+## Windows
+
+**https://youtu.be/Sdz1IOQghgo** - John Strand's introduction to Windows command line.
+**https://tutorials.cyberaces.org/tutorials/view/1-2-3.html** - SANS Cyber Aces introduction to Windows
+
+*Watch this space*
+
+### Powershell
+**https://posh-hunter.com/** - CTF-like introduction to Powershell.
+**https://underthewire.tech/** - OverTheWire, but for Powershell.
+
+
+
+## Cryptography
+**https://cryptohack.org/** - The *best* platform I've come across for cryptography so far.
+
+**https://www.crypto101.io/** - A great book, if you pair this with the platform above, it will give you a great overall understanding.
+
+**https://www.cipherchallenge.org/resources-media/** - This one comes from the Cipher Challenge, run by the University of Southampton, it has multiple slides introducing some basic concepts, and a 60-page long handbook.
+
+**https://cryptopals.com** - I can't explain it better than they can, definitely worth checking the site out.
+
+**"An Introduction to Mathematical Cryptography 2014"** - Note: this is ***not*** free, and quite the opposite. However, I was lucky enough to get an old copy off a friend, and there's no way I can leave this one out. The content is great, so if you want to pursue cryptography further, this book is a good place to start. 
+
+
+
+## Binary
+**https://guyinatuxedo.github.io/** - A course on Binary Exploitation based around CTF challenges. 
+
+**https://ir0nstone.gitbook.io/** - Notes from a student, definitely worth checking out!
+
+**https://ropemporium.com/** - A collection of challenges on return-oriented programming.
+
+**https://pwn.college/** - A good course, although it requires some understanding to start.
+
+
+## Web
+**https://portswigger.net/web-security/all-materials** - How could I make a resource list and leave portswigger out, the web academy is simply the best I've seen for people wanting to learn more on Web Exploitation.
+
+**https://www.youtube.com/watch?v=4Jk_I-cw4WE&list=PLI_rLWXMqpSl_TqX9bbisW-d7tDqcVvOJ** - PwnFunction has a great collection of very clear videos explaining some web exploitation techniques, if you find videos easier to digest.
+
+**https://www.youtube.com/playlist?list=PLuyTk2_mYISLaZC4fVqDuW_hOk0dd5rlf** - Rana Khalil is amazing at explaining in depth SQL injection, and she's regularly producing more content, so watch this space!
+
+
+
+## General Hacking
+**https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course** - A great course which covers many topics, and is incredibly cheap for the content you're getting. Note that Heath regularly does discounts on his twitter, so it's definitely worth watching out for that.
+
+**https://my.ine.com/CyberSecurity/learning-paths/a223968e-3a74-45ed-884d-2d16760b8bbd/penetration-testing-student** - INE has made their course for the eJPT certification completely free to take. It has some great content, and is very beginner focused. I believe labs are included for free, but it's worth noting the certification isn't.
+
+**https://www.hackthebox.eu/** - Some very challenging boot2root machines and challenges, and they're also branching out with their academy, which has regular updates to content: https://academy.hackthebox.eu (the majority of content on the academy is not free, however)
+
+**https://tryhackme.com/** - A great place to start with Cyber Security, they have loads of walkthrough and challenges around multiple areas in cyber security. Completely free for a large proportion of the content, although there is a subscriber feature. 
+
+**https://www.rangeforce.com/** - Lots of free content, covers much more than just pentesting content. 
+
+**https://overthewire.org/wargames/** - A large selection of challenges focusing on different areas, such as Linux, Web etc.
+
+**https://www.sans.org/free** - SANS is great. They have such a wide variety of free content, from cheatsheets to free conferences. 
+
+**https://www.cyberaces.org/** - Also developed by SANS, it's an online course of the basics, for free, of course ;)
+
+**https://enotes.nickapic.com/** - Another massive collection of notes, all created with love, by Nickapic.
+
+
+
+## Miscellaneous
+
+### People:
+https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw - John Hammond makes great informative and entertaining content on YouTube.
+
+https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA - IppSec has countless retired HackTheBox machines, and more on his channel. He's great to watch, even if you don't follow along, as you can just feel the intelligence leaking in. 
+
+https://www.youtube.com/channel/UCpoyhjwNIWZmsiKNKpsMAQQ - VbScrub has some brilliant videos on Active Directory, and focuses on Windows content, primarily through the HackTheBox platform. 
+
+https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w - Live Overflow, has over 300 videos which range from technical to vlog-like.
+
+https://www.youtube.com/channel/UCkefXKtInZ9PLsoGRtml2FQ - Professor Messer, for all your networking needs.
+
+https://www.youtube.com/channel/UCs6dtu4e0JL-N4hVszsFpBw - Tib3rius, is great for OSCP content (and basically everything).
+
+https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw - The Cyber Mentor, mentioned before for PEH course. 
+
+### Resources:
+A collection of collections of much better resources than I have here. 
+
+https://dfirmadness.com/getting-into-infosec/the-five-pillars/
+
+https://noxcyber.co.uk/the-cheatsheet
