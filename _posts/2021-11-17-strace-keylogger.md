@@ -2,7 +2,7 @@
 title: Strace - Bash Keylogger
 date: 2021-11-17 00:00:00 +0000
 categories: [Linux, Tools, Offensive]
-tags: Linux, Tools, Offensive
+tags: [Linux, Tools, Offensive]
 toc: true
 published: true
 ---
