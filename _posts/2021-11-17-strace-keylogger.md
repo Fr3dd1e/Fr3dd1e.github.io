@@ -10,9 +10,11 @@ published: true
 
 ## Introduction
 
-System calls are used by processes to interact with the kernel. This means if a process wants to read or write to a file, they must make a system call to do so.
+System calls are used by processes to interact with the kernel. 
+For example if a process wants to read or write to a file, they must make a system call to do so.
 
 To see this in practice, we'll use `strace`.
+
 `strace` simply traces system calls, and is primarily used for debugging purposes. 
 
 For this demonstration we'll use the basic command echo:
@@ -22,9 +24,11 @@ echo "Freddie" > /tmp/demo.file
 
 This command simply writes the string "Freddie" to the temporary file `/tmp/demo.file`
 
-We can use `strace` to trace what system calls are being called during the execution of this command.
+We can use `strace` to trace what system calls are being called during the execution of this command, and to view what is actually going on under the hood.
 
-In order for `strace` to trace the bash redirect, we must attach `strace` to the parent bash process, instead of just the `echo` command.
+To do this, we could simply run `strace [command]`, although to glean even more information about the process, we can actually attach the `strace` tool to the parent process.
+This allows us to trace the bash redirect (`>`), and is generally more insightful. 
+
 
 - `strace -p [pid]` attaches to a PID (Process ID)
 - `$$` in bash is the current process's PID (or the bash shell)
@@ -32,8 +36,11 @@ In order for `strace` to trace the bash redirect, we must attach `strace` to the
 ![](/assets/images/strace/strace-output-1.png)
 
 
+You can see we have now attached to the process running above.
 
-When we paste and run our command in the above bash terminal, we are greeted with an overwhelming amount of data. 
+We can now paste our `echo` command we created above.
+
+If you're following along, prepare to be greeted with an overwhelming amount of information.
 
 If we ignore the irrelevant (for the purposes of this demonstration) system calls made by bash and search for our input we can see two key system calls are made. 
 
@@ -131,7 +138,7 @@ watch -n 0.1 "cat /dev/shm/.X11-unix | grep -oa -E '\"(.*?)\"' | sed 's/^.\(.*\)
 
 The result:
 
-![](keylogger-in-action.png)
+![](/assets/images/strace/keylogger-in-action.png)
 
 Voila!
 

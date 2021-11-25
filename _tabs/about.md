@@ -5,4 +5,5 @@ order: 4
 ---
 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+Cyber Security student who has an innate ability to break things, hence why I got fired from my waiter career and found Security.
+
