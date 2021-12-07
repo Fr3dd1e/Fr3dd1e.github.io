@@ -2,7 +2,7 @@
 title: Cyber Resources
 date: 2000-01-01 00:00:00 +0000
 categories: [Resources, Notes]
-tags: Resources
+tags: [resources]
 toc: true
 pin: true
 published: true
