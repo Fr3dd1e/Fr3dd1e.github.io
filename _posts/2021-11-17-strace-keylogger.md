@@ -6,7 +6,7 @@ tags: [linux, tools, offensive]
 toc: true
 published: true
 ---
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ffredd%2Eie%2Fposts%2Fstrace-keylogger)](https://fredd.ie/posts/strace-keylogger) 
+> by **Freddie** | [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ffredd%2Eie%2Fposts%2Fstrace-keylogger&title=Views)](https://fredd.ie/posts/strace-keylogger) 
 
 ## Introduction
 

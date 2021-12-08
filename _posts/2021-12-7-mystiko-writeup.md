@@ -8,7 +8,7 @@ published: true
 ---
 
 # Mystiko CTF Writeup
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ffredd%2Eie%2Fposts%2Fmystiko-writeup)](https://fredd.ie/posts/mystiko-writeup) 
+> by **Freddie** | [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ffredd%2Eie%2Fposts%2Fmystiko-writeup&title=Views)](https://fredd.ie/posts/mystiko-writeup) 
 
                         
 
