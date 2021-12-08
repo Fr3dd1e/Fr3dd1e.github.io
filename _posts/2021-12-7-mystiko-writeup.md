@@ -8,7 +8,7 @@ published: true
 ---
 
 # Mystiko CTF Writeup
-![HitCount](http://hits.dwyl.com/Fr3dd1e/Fr3dd1egithubio/mystiko.svg)
+  [![HitCount](http://hits.dwyl.com/Fr3dd1e/Fr3dd1egithubio/mystiko.svg?style=flat-square)](http://hits.dwyl.com/Fr3dd1e/Fr3dd1egithubio/mystiko)
 
                         
 
