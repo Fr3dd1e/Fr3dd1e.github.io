@@ -10,8 +10,7 @@ published: true
 
 
 # Cyber Resources
-> by **Freddie** | [![HitCount](http://hits.dwyl.com/Fr3dd1e/Fr3dd1egithubio/resources.svg?style=flat-square)](http://hits.dwyl.com/Fr3dd1e/Fr3dd1egithubio/resources)
-
+> by **Freddie** | [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ffredd%2Eie%2Fposts%2Fresources)](https://fredd.ie/posts/resources) 
 
 This is a collection of all the best resources I've learnt from and used in the past year of my cyber security learning. 
 
