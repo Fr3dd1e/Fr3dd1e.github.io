@@ -7,7 +7,12 @@ toc: true
 published: true
 ---
 
-# Mystiko CTF Writeup 
+# Mystiko CTF Writeup
+![HitCount](http://hits.dwyl.com/Fr3dd1e/Fr3dd1egithubio/mystiko.svg)
+
+                        
+
+
 
 This is the writeup for the main challenge I rooted in Mystiko CTF. 
 
